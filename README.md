@@ -1,10 +1,15 @@
-### Hi there 👋
+### Halo semua! 👋
+
+Perkenalkan nama saya **Hanif Ali Ramdani**.  
+
+Saya seorang Game Developer, saat ini lebih senang menggunakan **Unity** sebagai Game Engine.  
+Role yang saya tekuni saat ini adalah producer, designer, dan programmer.  
+
+Saya sudah membuat 3 game, pencapaian terbesar saya adalah menjadi finalis dari 372 pendaftar bersama tim Antimag3 pada kompetisi [COMPFEST 13](https://www.instagram.com/p/CT9tkLOvbGR/).  
+
+Anda juga dapat mengunjungi akun [Itch.io](https://hijaz.itch.io/) saya untuk melihat perkembangan yang saya lakukan.  
 
 <!--
-**HijazP/HijazP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
