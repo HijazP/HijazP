@@ -22,7 +22,7 @@ Anda juga dapat mengunjungi akun [Itch.io](https://hijaz.itch.io/) saya untuk me
 
 <p align="left">
 <a href="https://github.com/HijazP">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HijazP&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HijazP&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HijazP&langs_count=3&theme=midnight-purple"/>
 
 </a>
