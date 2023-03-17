@@ -1,13 +1,10 @@
-### Halo semua! 👋
+### Hey there! 👋
 
-Perkenalkan nama saya **Hanif Ali Ramdani**.  
+Currently I'm interested in cloud computing (GCP, Azure, Huawei), game development (only in design and coding, using C# in Unity Game Engine), and back-end (newbie).
 
-Saya seorang Game Developer, saat ini lebih senang menggunakan **Unity** sebagai Game Engine.  
-Role yang saya tekuni saat ini adalah producer, designer, dan programmer.  
+You can play my games here [Itch.io](https://hijaz.itch.io/).
 
-Saya sudah membuat 3 game, pencapaian terbesar saya adalah menjadi finalis dari 372 pendaftar bersama tim Antimag3 pada kompetisi [COMPFEST 13](https://www.instagram.com/p/CT9tkLOvbGR/).  
-
-Anda juga dapat mengunjungi akun [Itch.io](https://hijaz.itch.io/) saya untuk melihat perkembangan yang saya lakukan.  
+Open for project collaboration, just DM me on Discord Hijaz#1112 ✌️
 
 <!--
 - 🔭 I’m currently working on ...
