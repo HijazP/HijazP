@@ -4,7 +4,6 @@ My name is Hanif
 
 Currently I'm interested in cloud computing (GCP, Azure, Huawei), game development (only in design and coding, using C# in Unity Game Engine), back-end (newbie), and Internet of Things.
 
-* 🖥️  See my portfolio at [Itch.io](http://hijaz.itch.io/)
 * 🤝  I'm open to collaborating on any project exclude front-end things
 
 ### Skills (or are currently learning)
@@ -42,18 +41,8 @@ Currently I'm interested in cloud computing (GCP, Azure, Huawei), game developme
 
 <a href="http://www.github.com/HijazP"><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=HijazP&show_icons=true&hide=stars,issues,&&include_all_commits=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=22272e&hide_border=true&show_icons=true&count_private=true" /></a>
 
-<a href="http://www.github.com/HijazP"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HijazP&stroke=ffffff&background=22272e&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/HijazP" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HijazP&langs_count=5&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=22272e&hide_border=true&locale=en&custom_title=Most%20%Used%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/HijazP" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HijazP&layout=compact&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=22272e&hide_border=true&locale=en&custom_title=Used%20%Languages" alt="Top Languages" /></a>
 
 <b>Other Badges<b>
   
 [![@hijazp's Holopin board](https://holopin.io/api/user/board?user=hijazp)](https://holopin.io/@hijazp)
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/HijazP/treasure-digger" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=HijazP&repo=treasure-digger&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=22272e&hide_border=true&locale=en" /></a><a href="https://github.com/HijazP/data-visualization" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=HijazP&repo=data-visualization&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=22272e&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/HijazP/proyekrpl" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=HijazP&repo=proyekrpl&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=22272e&hide_border=true&locale=en" /></a><a href="https://github.com/HijazP/i-hate-to-budget" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=HijazP&repo=i-hate-to-budget&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=22272e&hide_border=true&locale=en" /></a></div>
